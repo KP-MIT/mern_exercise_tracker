@@ -6,7 +6,7 @@ export default class Navbar extends Component {
   render() {
     return (
       <nav style={{paddingLeft: '2%'}} className="navbar navbar-dark bg-dark navbar-expand-lg">
-            <Link to="/" className="navbar-brand">ExcerTracker</Link>
+            <Link to="/" className="navbar-brand">Excerise Tracker</Link>
             <div className="collpase navbar-collapse">
                 <ul className="navbar-nav mr-auto">
                     <li className="navbar-item">
